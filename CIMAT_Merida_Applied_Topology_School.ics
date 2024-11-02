@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Discrete Morse Theory - Jesús González
+DTSTART;TZID=America/Merida:20241107T090000
+DTEND;TZID=America/Merida:20241107T100000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Persistent Homology - Jesús Rodríguez Viorato
+DTSTART;TZID=America/Merida:20241107T103000
+DTEND;TZID=America/Merida:20241107T113000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete Morse Theory (Part 2) - Jesús González
+DTSTART;TZID=America/Merida:20241107T114500
+DTEND;TZID=America/Merida:20241107T130000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Persistent Homology (Part 2) - Jesús Rodríguez V
+ iorato
+DTSTART;TZID=America/Merida:20241107T141500
+DTEND;TZID=America/Merida:20241107T151500
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete Morse Theory (Part 3) - Jesús González
+DTSTART;TZID=America/Merida:20241107T153000
+DTEND;TZID=America/Merida:20241107T163000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Persistent Homology (Part 3) - Jesús Rodríguez V
+ iorato
+DTSTART;TZID=America/Merida:20241107T163000
+DTEND;TZID=America/Merida:20241107T173000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis - Paweł Dłotko
+DTSTART;TZID=America/Merida:20241108T090000
+DTEND;TZID=America/Merida:20241108T100000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk 1: Applications of Tame Geometry - Carlos Alfonso Ruíz Guido
+DTSTART;TZID=America/Merida:20241108T103000
+DTEND;TZID=America/Merida:20241108T111500
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis (Part 2) - Paweł Dłotk
+ o
+DTSTART;TZID=America/Merida:20241108T113000
+DTEND;TZID=America/Merida:20241108T130000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete Morse Theory (Part 4) - Jesús González
+DTSTART;TZID=America/Merida:20241108T141500
+DTEND;TZID=America/Merida:20241108T153000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis (Part 3) - Paweł Dłotk
+ o
+DTSTART;TZID=America/Merida:20241108T163000
+DTEND;TZID=America/Merida:20241108T173000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis (Part 4) - Paweł Dłotk
+ o
+DTSTART;TZID=America/Merida:20241109T090000
+DTEND;TZID=America/Merida:20241109T100000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis (Part 5) - Paweł Dłotk
+ o
+DTSTART;TZID=America/Merida:20241109T101500
+DTEND;TZID=America/Merida:20241109T111500
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk 2: Ribbon Graphs and the DNA Reporter Strand Problem - Vinici
+ o Antonio Gómez Gutiérrez
+DTSTART;TZID=America/Merida:20241109T111500
+DTEND;TZID=America/Merida:20241109T120000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Topological Data Analysis (Part 6) - Paweł Dłotk
+ o
+DTSTART;TZID=America/Merida:20241109T120000
+DTEND;TZID=America/Merida:20241109T130000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications of Topology to the Theory of Neural Networks - Kathry
+ n Lindsey
+DTSTART;TZID=America/Merida:20241111T090000
+DTEND;TZID=America/Merida:20241111T100000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Applied Topology through Sage - Gregory Alexander
+DTSTART;TZID=America/Merida:20241111T103000
+DTEND;TZID=America/Merida:20241111T113000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Academic Development Q&A
+DTSTART;TZID=America/Merida:20241111T114500
+DTEND;TZID=America/Merida:20241111T130000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications of Topology to the Theory of Neural Networks (Part 2)
+  - Kathryn Lindsey
+DTSTART;TZID=America/Merida:20241111T141500
+DTEND;TZID=America/Merida:20241111T154500
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk 3: Studying Convective Flows with TDA - Juan Ahtziri Gonzále
+ z Lemus
+DTSTART;TZID=America/Merida:20241111T164500
+DTEND;TZID=America/Merida:20241111T173000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications of Topology to the Theory of Neural Networks (Part 3)
+  - Kathryn Lindsey
+DTSTART;TZID=America/Merida:20241112T090000
+DTEND;TZID=America/Merida:20241112T100000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Applied Topology through Sage (Part 2) - Gregory A
+ lexander
+DTSTART;TZID=America/Merida:20241112T103000
+DTEND;TZID=America/Merida:20241112T113000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications of Topology to the Theory of Neural Networks (Part 4)
+  - Kathryn Lindsey
+DTSTART;TZID=America/Merida:20241112T114500
+DTEND;TZID=America/Merida:20241112T130000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Applied Topology through Sage (Part 3) - Gregory A
+ lexander
+DTSTART;TZID=America/Merida:20241112T141500
+DTEND;TZID=America/Merida:20241112T153000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk 4: Beyond Pairwise Interactions - Rolando Kindelan Nuñez
+DTSTART;TZID=America/Merida:20241112T154500
+DTEND;TZID=America/Merida:20241112T163000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk 5: Applied Knot Theory - José Ángel Frías García
+DTSTART;TZID=America/Merida:20241112T164500
+DTEND;TZID=America/Merida:20241112T173000
+DTSTAMP:20241018T204142Z
+DESCRIPTION:Join Zoom meeting: https://zoom.us/j/92560065796?pwd=btEBKMkJR
+ Pu1THpwXfbePrMANQSQ9D.1
+LOCATION:CIMAT-Mérida\, Mérida\, Yucatán
+END:VEVENT
+END:VCALENDAR
